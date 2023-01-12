@@ -17,7 +17,7 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
 # Tech skills
   - MySQL
   - DevTools
-  - SCRUM
+  - Scrum, Kanban, Waterfall
   - Software testing
   - Creating test cases
   - Reporting bugs
