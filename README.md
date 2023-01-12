@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 # About me
-My name is Marzena Chaczko. I am a professional psychologist who develop in the IT world. I've started my journey as a manual tester on 2017 of my own web project resport.eu. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies, researches and experience.
+My name is Marzena Chaczko. I am a professional psychologist who develop in the IT world. I've started my journey as a manual tester on 2017 of my own web project resport.eu. My goal is to develop testing knowlage and technical skills (especially automation). On this site I would like to share my all gained experience from personal studies, researches and experience.
 
 # Tools
 * Jira, Trello, Monday
