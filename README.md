@@ -13,6 +13,7 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
 * Visual Studio Code
 * Charles Proxy
 * SDK
+* Figma
 
 # Tech skills
   - MySQL
