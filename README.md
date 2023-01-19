@@ -6,7 +6,7 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
 # Tools I can use
 * Jira, Trello, Monday
 * Postman
-* GitHub
+* Git
 * Bash
 * IntelliJ
 * PyCharm
