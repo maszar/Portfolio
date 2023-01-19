@@ -3,7 +3,7 @@
 # About me
 My name is Marzena Chaczko. I am a professional psychologist who develop in the IT world. I've started my journey as a manual tester on 2017 of my own web project resport.eu. My goal is to develop testing knowlage and technical skills (especially automation). On this site I would like to share my all gained experience from personal studies, researches and experience.
 
-# Tools
+# Tools I can use
 * Jira, Trello, Monday
 * Postman
 * GitHub
@@ -14,6 +14,7 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
 * Charles Proxy
 * SDK
 * Figma
+* TestLink
 
 # Tech skills
   - MySQL
@@ -26,8 +27,10 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
   - HTML, CSS
   - Java basic
   - Python basic
+  
 # Certificates
   - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 91365
+  
 # Courses
   - [CodeBrainers: Tester manualny, 75h](https://codebrainers.pl/tester_manualny.pdf)
   - Learn JIRA with real-world examples (+Confluence bonus) - Udemy
