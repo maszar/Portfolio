@@ -15,6 +15,7 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
 * SDK
 * Figma
 * TestLink
+* OWASP ZAP
 
 # Tech skills
   - MySQL
