@@ -17,11 +17,12 @@ My name is Marzena Chaczko. I am a professional psychologist who develop in the 
 * TestLink
 * OWASP ZAP
 * jMeter
+* BrowserStack
+* DevTools
 
 # Tech skills
   - MySQL
-  - DevTools
-  - Scrum, Kanban, Waterfall
+  - Experience with Scrum, Kanban, Waterfall
   - Software testing
   - Creating test cases
   - Creating Test Plans
